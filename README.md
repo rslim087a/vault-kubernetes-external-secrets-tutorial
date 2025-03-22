@@ -21,9 +21,9 @@ helm repo add external-secrets https://charts.external-secrets.io
 helm repo update
 
 # Install External Secrets Operator
-helm install external-secrets external-secrets/external-secrets \\
-  --namespace external-secrets \\
-  --create-namespace \\
+helm install external-secrets external-secrets/external-secrets \
+  --namespace external-secrets \
+  --create-namespace \
   --version 0.15.0
 ```
 
@@ -34,8 +34,8 @@ helm install external-secrets external-secrets/external-secrets \\
 kubectl create namespace demo
 
 # Create a Kubernetes secret with the Vault token
-kubectl create secret generic vault-token \\
-  --namespace demo \\
+kubectl create secret generic vault-token \
+  --namespace demo \
   --from-literal=token=root
   ```
 ## Test using pod
