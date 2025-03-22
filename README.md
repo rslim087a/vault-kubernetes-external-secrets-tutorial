@@ -1,4 +1,4 @@
-# Kubernetes CICD Tutorial
+# Vault External Secrets Tutorial
 
 This repo contains all the code needed to follow along with our **[YouTube Tutorial](https://)** or **[Written Article](https://kubernetestraining.io/blog/hashicorp-vault-kubernetes-create-external-secrets)**.
 
