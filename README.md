@@ -1,13 +1,13 @@
 # Vault External Secrets Tutorial
 
-This repo contains all the code needed to follow along with our **[YouTube Tutorial](https://youtu.be/CF6ARIXdA4A)** or **[Written Article](https://kubernetestraining.io/blog/hashicorp-vault-kubernetes-create-external-secrets)**.
+This repo contains all the code needed to follow along with our **[YouTube Tutorial](https://youtu.be/CF6ARIXdA4A)** or **[Written Article](https://rayanslim.com/course/vault-external-secrets-course/introduction)**.
 
 ## Prerequisites
 
 To follow along with this tutorial, you'll need:
 
 - kubectl installed and configured ([https://youtu.be/IBkU4dghY0Y](https://youtu.be/IBkU4dghY0Y))
-- Helm installed: ([https://kubernetestraining.io/blog/installing-helm-on-mac-and-windows](https://kubernetestraining.io/blog/installing-helm-on-mac-and-windows))
+- Helm installed: [https://rayanslim.com/course/prometheus-grafana-monitoring-course/helm-installation](https://rayanslim.com/course/prometheus-grafana-monitoring-course/helm-installation)
 
 **Become a Cloud and DevOps Engineer:** https://rayanslim.com
 
