@@ -1,13 +1,13 @@
 # Vault External Secrets Tutorial
 
-This repo contains all the code needed to follow along with our **[YouTube Tutorial](https://youtu.be/CF6ARIXdA4A)** or **[Written Article](https://rayanslim.com/course/vault-external-secrets-course/introduction)**.
+This repo contains all the code needed to follow along with our **[YouTube Tutorial](https://youtu.be/CF6ARIXdA4A)** or **[Written Article](https://rslim087a.github.io/rayanslim/lesson.html?course=vault-external-secrets-course&lesson=introduction)**.
 
 ## Prerequisites
 
 To follow along with this tutorial, you'll need:
 
 - kubectl installed and configured ([https://youtu.be/IBkU4dghY0Y](https://youtu.be/IBkU4dghY0Y))
-- Helm installed: [https://rayanslim.com/course/prometheus-grafana-monitoring-course/helm-installation](https://rayanslim.com/course/prometheus-grafana-monitoring-course/helm-installation)
+- Helm installed: [https://rslim087a.github.io/rayanslim/lesson.html?course=prometheus-grafana-monitoring-course&lesson=helm-installation](https://rslim087a.github.io/rayanslim/lesson.html?course=prometheus-grafana-monitoring-course&lesson=helm-installation)
 
 **Become a Cloud and DevOps Engineer:** https://rayanslim.com
 
@@ -61,4 +61,4 @@ spec:
 
 ## Become a Cloud and DevOps Engineer
 
-Learn every tool that matters: https://rayanslim.com
+Learn every tool that matters: [https://rslim087a.github.io/rayanslim](https://rslim087a.github.io/rayanslim)
